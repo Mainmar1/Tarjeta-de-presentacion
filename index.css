@@ -1,9 +1,8 @@
 body{
-    background-image: url(./Images/fondoTarjeta.jpg);
+    background-image: url(./Images/10955.jpg);
     background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed; 
 }
 header{
  display: flex;
@@ -24,7 +23,7 @@ color:white;
  display: flex;
  justify-content:center;
  width:30%;   
- background-color: rgba(255, 255, 255, 0.497);
+ background-color: rgba(255, 255, 255, 0.462);
  border-radius: 10px;
  align-items:center;
 }
