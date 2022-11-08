@@ -11,11 +11,15 @@ header{
 .class-tittle{
 font-family: 'Roboto', sans-serif;
 font-size:100px;
+text-shadow: 0px 20px 7px rgba(0, 0, 0, 0.61);
 color:white;
 
 }
 .sombraBox3 {
     box-shadow: 0 1px 6px 0 rgba(255, 255, 255, 0.682);
+}
+.sombraBox1 {
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.775);
 }
 .class-div-parrafo{
  padding:40px;
@@ -49,9 +53,9 @@ color:white;
   height:60px;
 }
 .class-btn{
-font-family: 'Rubik Bubbles', cursive; 
+font-family: 'Roboto', sans-serif;
 background-color:rgba(212, 175, 55, 0.899); 
-font-size:16px; 
+font-size:14px; 
 border-radius:500px; 
 border:solid 2px rgba(212, 175, 55, 0.629); 
 }
@@ -107,12 +111,13 @@ margin-top:210px;
 .h4Name{
     margin-top:-60px; 
     font-family: 'Rubik Bubbles', cursive; 
-    color:rgb(212, 175, 55); 
+    color:#D4AF37; 
+    text-shadow: 0px 8px 7px #000000a8;
     font-size: 36px;
 }
 .oclock{
 font-family:'Roboto', sans-serif;  
-color:white; 
+color:	#D4AF37; 
 font-size:50px; 
 height:100px; 
 font-weight:bold;
@@ -159,7 +164,8 @@ font-family: 'Roboto', sans-serif;
     .h4Name{
                 margin-top:-40px; 
                 font-family: 'Rubik Bubbles', cursive; 
-                color:rgb(212, 175, 55); 
+                color:#D4AF37; 
+                text-shadow: 0px 8px 7px #000000a8; 
                 font-size: 26px;
             }
     .oclock{
@@ -186,9 +192,8 @@ font-family: 'Roboto', sans-serif;
                 margin-top:170px;
                             } 
     .class-btn{
-                font-family: 'Rubik Bubbles', cursive; 
                 background-color:rgba(212, 175, 55, 0.899); 
-                font-size:20px; 
+                font-size:14px; 
                 border-radius:5px; 
                 border:solid 2px rgba(212, 175, 55, 0.629); 
                                 }
