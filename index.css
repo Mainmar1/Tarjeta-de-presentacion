@@ -103,7 +103,7 @@ color:white;
 .class_tittle_principal{
 display: flex; 
 justify-content:center; 
-margin-top:110px;
+margin-top:210px;
 }
 .h4Name{
     margin-top:-60px; 
@@ -129,6 +129,7 @@ color:white;
 font-family: 'Roboto', sans-serif;
 }
 @media only screen and (min-width:300px) and (max-width:450px){
+    
     .class_container_inicio{
         background-color:rgba(0, 0, 0, 0.326); 
         border-radius:10px; 
@@ -153,13 +154,14 @@ font-family: 'Roboto', sans-serif;
     .class-parrafo{
                 text-align: center;
                 color:black;
-                font-size: 16px;
+                font-family: 'Rubik Bubbles', cursive; 
+                font-size: 18px;
             }
     .h4Name{
                 margin-top:-40px; 
                 font-family: 'Rubik Bubbles', cursive; 
                 color:rgb(212, 175, 55); 
-                font-size: 22px;
+                font-size: 26px;
             }
     .oclock{
                 font-family:'Roboto', sans-serif;  
@@ -169,14 +171,30 @@ font-family: 'Roboto', sans-serif;
                 font-weight:bold;
                 }            
     .div_oclock{
-                    margin-top:-25px; 
-                    display:flex; 
-                    justify-content:center;
+                margin-top:-25px; 
+                display:flex; 
+                justify-content:center;
                     }   
     .h3_oclock{
-                        font-size:18px; 
-                        color:white; 
-                        margin-bottom: 23px;
-                        font-family: 'Roboto', sans-serif;
-                        }         
+                font-size:18px; 
+                color:white; 
+                margin-bottom: 23px;
+                font-family: 'Roboto', sans-serif;
+                        }    
+    .class_tittle_principal{
+                display: flex; 
+                justify-content:center; 
+                margin-top:170px;
+                            } 
+    .class-btn{
+                font-family: 'Rubik Bubbles', cursive; 
+                background-color:rgba(212, 175, 55, 0.899); 
+                font-size:20px; 
+                border-radius:5px; 
+                border:solid 2px rgba(212, 175, 55, 0.629); 
+                                }
+    .class-btn:hover{
+                background-color:rgb(253, 205, 46);   
+                                }
+
 }
