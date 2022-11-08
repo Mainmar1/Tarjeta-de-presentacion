@@ -1,0 +1,121 @@
+body{
+    background-image: url(./Images/fondoTarjeta.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+ display: flex;
+ justify-content:center;   
+}
+.class-tittle{
+font-family: 'Roboto', sans-serif;
+font-size:100px;
+color:white;
+
+}
+.sombraBox3 {
+    box-shadow: 0 1px 6px 0 rgba(255, 255, 255, 0.682);
+}
+.class-div-parrafo{
+ padding:40px;
+ height:300px;
+ display: flex;
+ justify-content:center;
+ width:30%;   
+ background-color: rgba(255, 255, 255, 0.497);
+ border-radius: 10px;
+ align-items:center;
+}
+.class-subTitle{
+   text-align: center; 
+}
+.class-parrafo{
+    text-align: center;
+    color:black;
+    font-size: 22px;
+}
+.ubicacion{
+    margin-top: 30px;
+    display: flex;
+    justify-content:center;
+    background-color:rgba(0, 0, 0, 0.563);
+    border-radius: 10px;
+
+}
+.img_maps{
+  margin-left: 20px;
+  width:60px;  
+  height:60px;
+}
+.class-btn{
+font-family: 'Rubik Bubbles', cursive; 
+background-color:rgba(212, 175, 55, 0.899); 
+font-size:16px; 
+border-radius:500px; 
+border:solid 2px rgba(212, 175, 55, 0.629); 
+}
+.class-btn:hover{
+    background-color:rgb(212, 175, 55);   
+}
+.pointer{
+    cursor:pointer;
+}
+.btn-principal{  
+    text-decoration:none;
+    margin-bottom: 3px;
+    font-family: 'Rubik Bubbles', cursive; 
+    background-color:rgba(0, 0, 0, 0.849); 
+    font-size:20px; 
+    color: white;
+    padding:15px;
+    border-radius:20px; 
+    border:solid 2px rgba(0, 0, 0, 0.755);
+
+}
+.btn-principal:hover{
+    background-color:rgb(0, 0, 0); 
+
+}
+.body1{
+    background-image: url(./Images/dark-abstract-texture.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+}
+.class_container_inicio{
+background-color:rgba(0, 0, 0, 0.326); 
+border-radius:10px; 
+width:40%; 
+margin: auto;
+}
+.classH1{
+font-family: 'Roboto', sans-serif; 
+font-size: 70px; 
+color:white;
+}
+.footer{
+    color: white;
+    font-size:12px;
+}
+.class_tittle_principal{
+display: flex; 
+justify-content:center; 
+margin-top:110px;
+}
+@media only screen and (min-width:300px) and (max-width:450px){
+    .class_container_inicio{
+        background-color:rgba(0, 0, 0, 0.326); 
+        border-radius:10px; 
+        width:85%; 
+        margin: auto;
+        }
+    .classH1{
+            font-family: 'Roboto', sans-serif; 
+            font-size: 40px; 
+            color:white;
+            }   
+
+}
