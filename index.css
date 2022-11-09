@@ -223,9 +223,22 @@ font-weight:bold"
                 background-color:rgb(253, 205, 46);   
                                 }
     .img_maps{
-                margin-top: 5px;
+                margin-top: 2px;
                 width: 47px;
                 height: 47px;
     }
+    .direccionTxt{
+        color:white; 
+        align-items:center; 
+        font-size:18px; 
+        margin-top: 18px;
+        }
+    .class_i{
+        margin-left:12px ; 
+        margin-top:20px; 
+        font-size:18px; 
+        color:white; 
+        font-weight:bold"
+        }
 
 }
