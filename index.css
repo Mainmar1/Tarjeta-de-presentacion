@@ -151,7 +151,7 @@ font-family: 'Roboto', sans-serif;
     .classH1{
             font-family: 'Roboto', sans-serif; 
             font-size: 40px; 
-            text-shadow: 0px 12px 7px #000000e9; 
+            text-shadow: 0px 20px 7px #000000; 
             color:white;
             }   
     .class-div-parrafo{
@@ -209,5 +209,10 @@ font-family: 'Roboto', sans-serif;
     .class-btn:hover{
                 background-color:rgb(253, 205, 46);   
                                 }
+    .img_maps{
+                margin-top: 7px;
+                width: 47px;
+                height: 47px;
+    }
 
 }
