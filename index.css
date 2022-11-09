@@ -181,7 +181,7 @@ font-weight:bold"
                 font-family: 'Rubik Bubbles', cursive;
                 text-align: center;
                 color:black; 
-                font-size: 18px;
+                font-size: 22px;
             }
     .h4Name{
                 margin-top:-40px; 
@@ -231,7 +231,7 @@ font-weight:bold"
     .direccionTxt{
         color:white; 
         align-items:center; 
-        font-size:22px; 
+        font-size:16px; 
         margin-top: 18px;
         }
     .class_i{
