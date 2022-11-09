@@ -83,7 +83,7 @@ border:solid 2px rgba(212, 175, 55, 0.629);
 
 }
 .body1{
-    background-image: url(./Images/dark-abstract-texture.jpg) !important;
+    background-image: url(./Images/dark-abstract-texture.jpg);
     background-repeat: no-repeat !important;
     background-position: center !important;
     background-size: cover !important;
@@ -152,7 +152,7 @@ font-weight:bold"
         background-image: url(./Images/6222641.jpg);
         background-repeat: no-repeat;
         background-size: cover; 
-        
+        background-position: center;
         background-attachment: fixed; 
     }
     .class_container_inicio{
