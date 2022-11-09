@@ -151,9 +151,9 @@ font-weight:bold"
     body{
         background-image: url(./Images/champagne-glasses-with-bokeh-lights.jpg);
         background-repeat: no-repeat;
-       
+        background-size: cover; 
         background-position: center;
-       
+        background-attachment: fixed; 
     }
     .class_container_inicio{
         background-color:rgba(0, 0, 0, 0.326); 
