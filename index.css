@@ -164,7 +164,7 @@ font-weight:bold"
     .classH1{
             font-family: 'Roboto', sans-serif; 
             font-size: 40px; 
-            text-shadow: 0px 20px 7px #000000; 
+            text-shadow: 0px 12px 7px #000000; 
             color:white;
             }   
     .class-div-parrafo{
@@ -187,7 +187,7 @@ font-weight:bold"
                 margin-top:-40px; 
                 font-family: 'Rubik Bubbles', cursive; 
                 color:#e7bd33; 
-                text-shadow: 0px 12px 7px #000000a8; 
+                text-shadow: 0px 8px 7px #000000a8; 
                 font-size: 26px;
             }
     .oclock{
