@@ -2,6 +2,7 @@ body{
     background-image: url(./Images/10955.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    object-fit: contain;
     background-attachment: fixed;
     background-position: center;
      
@@ -154,6 +155,7 @@ font-weight:bold"
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover; 
+        object-fit: contain;
         background-attachment: fixed; 
     }
     .class_container_inicio{
@@ -179,7 +181,6 @@ font-weight:bold"
                 align-items:center;
                }
     .class-parrafo{
-                object-fit: contain;
                 font-family: 'Rubik Bubbles', cursive;
                 text-align: center;
                 color:black; 
