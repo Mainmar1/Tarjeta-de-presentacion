@@ -179,6 +179,7 @@ font-weight:bold"
                 align-items:center;
                }
     .class-parrafo{
+                object-fit: contain;
                 font-family: 'Rubik Bubbles', cursive;
                 text-align: center;
                 color:black; 
