@@ -150,7 +150,7 @@ font-weight:bold"
 }
 @media only screen and (min-width:300px) and (max-width:450px){
     body{
-        background-image: url(./Images/6222641.jpg);
+        background-image: url(./Images/fondoTarjeta.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover; 
@@ -200,7 +200,7 @@ font-weight:bold"
                 font-weight:bold;
                 }            
     .div_oclock{
-                margin-top:-25px; 
+                margin-top:-10px; 
                 display:flex; 
                 justify-content:center;
                     }   
@@ -217,13 +217,14 @@ font-weight:bold"
                 margin-top:190px;
                             } 
     .class-btn{
-                background-color:rgba(212, 175, 55, 0.899); 
+                background-color:rgba(228, 185, 44, 0.899); 
                 font-size:14px; 
+                padding: 8px;
                 border-radius:5px; 
-                border:solid 2px rgba(212, 175, 55, 0.629); 
+                border:solid 2px rgba(227, 183, 38, 0.866); 
                                 }
     .class-btn:hover{
-                background-color:rgb(253, 205, 46);   
+                background-color:rgba(253, 205, 46, 0.526);   
                                 }
     .img_maps{
                 margin-top: 2px;
