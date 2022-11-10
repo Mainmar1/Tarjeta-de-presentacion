@@ -150,7 +150,7 @@ font-weight:bold"
 }
 @media only screen and (min-width:300px) and (max-width:450px){
     body{
-        background-image: url(./Images/champagne-glasses-with-bokeh-lights.jpg);
+        background-image: url(./Images/fondoTarjeta.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover; 
@@ -182,7 +182,7 @@ font-weight:bold"
                 font-family: 'Rubik Bubbles', cursive;
                 text-align: center;
                 color:black; 
-                font-size: 22px;
+                font-size: 23px;
             }
     .h4Name{
                 margin-top:-40px; 
