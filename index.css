@@ -2,7 +2,7 @@ body{
     background-image: url(./Images/10955.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    object-fit: contain;
+    object-fit: 0px;
     background-attachment: fixed;
     background-position: center;
      
@@ -155,7 +155,7 @@ font-weight:bold"
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover; 
-        object-fit: contain;
+        object-fit: 0px;
         background-attachment: fixed; 
     }
     .class_container_inicio{
