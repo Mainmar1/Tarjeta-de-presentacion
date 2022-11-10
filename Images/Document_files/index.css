@@ -104,7 +104,6 @@ text-shadow: 0px 12px 7px #000000e9;
 color:white;
 }
 .footer{
-    font-family: 'Alegreya Sans', sans-serif;
     color: white;
     font-size:12px;
 }
@@ -155,7 +154,7 @@ font-weight:bold"
 }
 @media only screen and (min-width:300px) and (max-width:450px){
     body{
-        background-image: url(./Images/10955.jpg);
+        background-image: url(./Images/fondoTarjeta.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover; 
@@ -168,9 +167,6 @@ font-weight:bold"
         width:85%; 
         margin: auto;
         }
-    .class-tittle{
-        font-size:110px;
-    }    
     .classH1{
             font-family: 'Alegreya Sans', sans-serif;
             font-size: 40px; 
@@ -178,7 +174,7 @@ font-weight:bold"
             color:white;
             }   
     .class-div-parrafo{
-                padding:25px;
+                padding:40px;
                 height:300px;
                 display: flex;
                 justify-content:center;
@@ -239,7 +235,7 @@ font-weight:bold"
                 color:black;  
                                 }
     .img_maps{
-                margin-top: 1px;
+                margin-top: 2px;
                 width: 47px;
                 height: 47px;
     }
@@ -247,11 +243,11 @@ font-weight:bold"
         color:white; 
         align-items:center; 
         font-size:16px; 
-        margin-top: 16px;
+        margin-top: 18px;
         }
     .class_i{
         margin-left:12px ; 
-        margin-top:18px; 
+        margin-top:20px; 
         font-size:18px; 
         color:white; 
         font-weight:bold"
