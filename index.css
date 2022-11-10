@@ -315,13 +315,13 @@ header {
 
 }
 
-@media only screen and (min-width:450px) and (max-width:750px) {
+@media only screen and (min-width:450px) and (max-width:850px) {
 
     .class-parrafo {
         font-family: 'Rubik Bubbles', cursive;
         text-align: center;
         color: black;
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .class-div-parrafo {
@@ -329,7 +329,7 @@ header {
         height: 300px;
         display: flex;
         justify-content: center;
-        width: 36%;
+        width: 56%;
         background-color: rgba(255, 255, 255, 0.462);
         border-radius: 10px;
         align-items: center;
