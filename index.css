@@ -32,6 +32,10 @@ header {
 .sombraBox1 {
     box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.786);
 }
+.sombraBox {
+    box-shadow: 0 2px 15px 0 rgb(0, 0, 0);
+}
+
 
 .class-div-parrafo {
     padding: 40px;
@@ -187,7 +191,7 @@ header {
 
 @media only screen and (min-width:300px) and (max-width:450px) {
     body {
-        background-image: url(./Images/10955.jpg);
+        background-image: url(./Images/fondoTarjeta.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
