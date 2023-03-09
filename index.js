@@ -20,7 +20,7 @@ const countdown = (deadline, element, finalMessage) => {
 
   const timerUpdate = setInterval(() => {
     let time = getRemainTime(deadline);
-    el.innerHTML = ` ${time.remainDays}D ${time.remainHours}H ${time.remainMinutes}M ${time.remainSecond}S`;
+    el.innerHTML = ` ${time.remainDays}d ${time.remainHours}h ${time.remainMinutes}m ${time.remainSecond}s`;
 
     if (time.remainTime <= 1) {
       clearInterval(timerUpdate);
@@ -29,4 +29,4 @@ const countdown = (deadline, element, finalMessage) => {
   }, 1000);
 };
 
-countdown("Nov 19 2022 11:00:00 GMT-0300", "clock", "Final del mensaje");
+countdown("Apr 15 2023 13:00:00 GMT-0300", "clock", "Final del mensaje");
