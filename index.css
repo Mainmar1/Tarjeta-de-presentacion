@@ -1,5 +1,5 @@
 body {
-    background-image: url(./Images/v685-mynt-03b-goldfloral\ [Convertido].png);
+    background-image: url(./Images/v685-mynt-03b-goldfloral.png);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: 0px;
@@ -15,7 +15,7 @@ header {
 
 .class-tittle {
     font-family:'Great Vibes', cursive;
-    font-size: 60px;
+    font-size: 45px;
     text-shadow: 0px 20px 7px rgba(0, 0, 0, 0.299);
     color: #373737;
 
@@ -95,7 +95,7 @@ header {
 
 
 .body1 {
-    background-image: url(./Images/18361514.png);
+    background-image: url(./Images/18361514.jpg);
     background-repeat: no-repeat !important;
     background-position: center !important;
     background-size: cover !important;
@@ -185,11 +185,11 @@ header {
 
     .class-tittle {
         font-family: 'Great Vibes', cursive;
-        font-size: 60px;
+        font-size: 45px;
     }
 
     .classH1 {
-        margin-top: -40px;
+        margin-top: 22px;
         font-family: 'Great Vibes', cursive;;
         font-size: 50px;
         text-shadow: 0px 12px 7px #00000076;
